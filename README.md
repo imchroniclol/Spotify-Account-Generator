@@ -2,8 +2,9 @@
 A Spotify account generator. Really fast, uses HTTP proxies.
 
 A really fast account generator written in python.
+![Screenshot_2](https://user-images.githubusercontent.com/110974752/184112282-528501a3-1679-48d1-9c95-1d9ca68179d3.png)
 
-![Screenshot_1](https://user-images.githubusercontent.com/110974752/184102326-9dc9ec01-0cb6-4afd-b392-c249acf26f8d.png)
+
 
 
 
